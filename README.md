@@ -1,4 +1,10 @@
-# 🧰 Awesome Free Online Tools – The Ultimate Curated List for Professionals, Creators & Developers
+
+
+---
+
+## 🌐 All-in-One Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact, rotate), image (background removal, resize, compress, HEIC→JPG), video to GIF, QR codes, invoice generator, JSON formatter, UUID, password generator. Files never leave your device — 100% private, no signup.# 🧰 Awesome Free Online Tools – The Ultimate Curated List for Professionals, Creators & Developers
 
 ![Awesome Online Tools Banner](https://toolimi.com/wp-content/uploads/2026/05/toolimi-banner.jpg)
 
