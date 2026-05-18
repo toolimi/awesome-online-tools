@@ -330,3 +330,10 @@ MIT License. See [LICENSE](LICENSE).
 - 💼 **LinkedIn**: [linkedin.com/company/toolimi](https://www.linkedin.com/company/toolimi)
 
 *Last updated: May 2026*
+
+
+---
+
+## 📦 All-in-One Online Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact), image (AI background removal, HEIC→JPG, resize), video to GIF, QR codes, invoice, JSON, Base64, UUID, JWT, hash generator, password gen. Zero upload, zero account.
