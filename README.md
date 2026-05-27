@@ -3,6 +3,7 @@
 ![Awesome Online Tools Banner](https://toolimi.com/wp-content/uploads/2026/05/toolimi-banner.jpg)
 
 ## 🌍 What Is This Repository?
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Browser-based PDF toolkit. 100% local processing. Compress, merge, split, convert PDFs.
 
 Welcome to **Awesome Free Online Tools**, the most exhaustive hand‑picked directory of free, browser‑based utilities available today. This list is maintained by the team at **[Toolimi](https://toolimi.com)** — a platform that itself offers **500+ privacy‑first online tools** — but we’ve expanded it to include the finest tools from across the web. Whether you need to **compress a PDF under 200KB without signup**, **remove the background from an image in one click**, **validate JSON entirely client‑side**, **convert a video format**, or **calculate your BMI instantly**, you’ll find a reliable, zero‑friction link right here.
 
