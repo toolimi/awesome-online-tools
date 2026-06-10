@@ -139,6 +139,7 @@ All these tools run **client‑side**, meaning your photos never leave your devi
 | [Free Image Format Converter](https://toolimi.com/tools/free-image-format-converter/) | Convert between JPG, PNG, WebP, AVIF, BMP. Image format converter online free. |
 | [Any Image to WEBP Converter](https://toolimi.com/tools/any-image-to-webp-converter/) | Convert any image to next‑gen WebP format. Convert image to WebP online free. |
 | [WebP Converter](https://toolimi.com/tools/webp-converter/) | Dedicated WebP encoder. WebP image converter free online. |
+| [FreePNGConvert](https://freepngconvert.com/) | Convert WebP to PNG in browser. No upload, no signup, privacy-first. Free WebP to PNG converter online. |
 | [Add Watermark to Image](https://toolimi.com/tools/add-watermark-to-image/) | Brand your images with text/logo. Add watermark to photo online free no signup. |
 | [Watermark Tool](https://toolimi.com/tools/watermark-tool/) | Generic watermarking utility. Free online watermark tool for images. |
 | [Remove Metadata from Image](https://toolimi.com/tools/remove-metadata-from-image/) | Strip EXIF, location, camera data. Remove metadata from image free online for privacy. |
