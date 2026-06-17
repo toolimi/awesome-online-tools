@@ -282,6 +282,8 @@ Specialized tools for online sellers and shippers.
 
 ## 🧰 All-in-One Tool Suites (External)
 
+- [Mini Tools](https://mini-tools.uk) – Free multilingual online tools for UK tax calculator, take-home pay calculator, VAT calculator, mortgage calculator, free image hosting, PDF tools, and developer utilities. No signup required.
+
 These platforms, including Toolimi, house dozens of utilities under one roof.
 
 - **[Toolimi](https://toolimi.com)** – **500+ free, client‑side tools** across PDF, image, text, dev, math, health, e‑com, video, and more. Privacy‑first, no signup.
