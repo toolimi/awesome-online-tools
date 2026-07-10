@@ -236,6 +236,7 @@ Quick, accurate computations without any app install.
 | [Log2 Calculator](https://toolimi.com/tools/log2-calculator/) | Base‑2 logarithm. Log2 calculator free. |
 | [Natural Log (Ln)](https://toolimi.com/tools/natural-log-ln/) | Natural logarithm. Ln calculator free. |
 | [Factorial Calculator](https://toolimi.com/tools/factorial-calculator/) | Compute n! Factorial calculator online free. |
+| [Concrete Calculator Hub](https://concreteestimatorhub.com/) | Free concrete calculators for slabs, footings, columns, and bags with cost estimates. |
 
 ---
 
