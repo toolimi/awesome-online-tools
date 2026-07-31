@@ -330,3 +330,7 @@ MIT License. See [LICENSE](LICENSE).
 - 💼 **LinkedIn**: [linkedin.com/company/toolimi](https://www.linkedin.com/company/toolimi)
 
 *Last updated: May 2026*
+
+## Image Converters
+
+- [FreePNGConvert](https://freepngconvert.com) - Browser-side WebP to PNG converter.
