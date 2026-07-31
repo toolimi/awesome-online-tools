@@ -275,6 +275,7 @@ Specialized tools for online sellers and shippers.
 | Tool Name | Short Description |
 |-----------|-------------------|
 | [User Agent Generator](https://toolimi.com/tools/user-agent-generator/) | Generate random user‑agent strings for testing. Free user agent generator online. |
+| [Website to Text](https://websitetotext.com/) | Convert a public webpage URL to plain text or Markdown. Free website to text converter online. |
 
 *(More SEO tools coming soon.)*
 
