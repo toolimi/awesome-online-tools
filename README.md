@@ -285,6 +285,9 @@ Specialized tools for online sellers and shippers.
 These platforms, including Toolimi, house dozens of utilities under one roof.
 
 - **[Toolimi](https://toolimi.com)** – **500+ free, client‑side tools** across PDF, image, text, dev, math, health, e‑com, video, and more. Privacy‑first, no signup.
+- [TryQuickImg](https://tryquickimg.com/) – Browser-only HEIC convert, compress-to-KB, resize, crop, QR — no signup, processing stays on-device.
+- [TryDevSnip](https://trydevsnip.com/) – Browser-only JSON, cron, timestamp, JWT, hash utilities — no signup, paste stays in the tab.
+- [TryCalculatingNow](https://trycalculatingnow.com/) – Free GPA, final grade, percentage, and compound-interest calculators — no signup.
 - [iLovePDF](https://www.ilovepdf.com/) – Popular PDF suite.
 - [TinyPNG](https://tinypng.com/) – Smart PNG/JPEG compression.
 - [Photopea](https://www.photopea.com/) – Free Photoshop alternative in browser.
