@@ -296,6 +296,7 @@ These platforms, including Toolimi, house dozens of utilities under one roof.
 - [Desmos](https://www.desmos.com/) – Graphing calculator.
 - [CyberChef](https://gchq.github.io/CyberChef/) – The Cyber Swiss Army Knife.
 - [PDF24 Tools](https://tools.pdf24.org/) – Completely free PDF suite.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) – Free browser-only freelance invoice, quote, receipt, and client paperwork generators. No signup; print or save as PDF.
 
 ---
 
