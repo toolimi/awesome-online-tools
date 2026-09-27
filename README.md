@@ -121,6 +121,7 @@ The most comprehensive collection on this list — **45+ free online PDF tools**
 | Tool Name | Short Description |
 |-----------|-------------------|
 | [Online PDF Viewer](https://toolimi.com/tools/online-pdf-viewer/) | View PDFs directly in your browser, no plugin needed. Free online PDF viewer no download. |
+| [FileOnTap](https://fileontap.com/) | Free browser-based image and PDF converter; processing stays on the device, with no upload or account required. |
 
 ---
 
