@@ -28,6 +28,7 @@ You’ll find **150+ tools** in this README, each with a description that natura
 - [Encode & Decode Tools](#encode--decode-tools)
 - [Math & Calculation Tools](#math--calculation-tools)
 - [Video Tools](#video-tools)
+- [Audio Tools](#audio-tools)
 - [E‑Commerce Tools](#ecommerce-tools)
 - [Health & Fitness Tools](#health--fitness-tools)
 - [Web & SEO Tools](#web--seo-tools)
@@ -247,6 +248,14 @@ Simple video compression and conversion without watermarks.
 |-----------|-------------------|
 | [Video Compressor](https://toolimi.com/tools/video-compressor/) | Reduce MP4 video file size online. Free video compressor no watermark. |
 | [Video Converter](https://toolimi.com/tools/video-converter/) | Convert between MP4, AVI, MKV, etc. Online video converter free. |
+
+---
+
+## Audio Tools
+
+| Tool Name | Short Description |
+|-----------|-------------------|
+| [QuietTake Noise Remover](https://noiseremover.site/) | Remove background noise from short speech recordings locally with RNNoise; compare original/cleaned playback and download a 48 kHz 16-bit WAV. Free, no signup or audio upload; each file must be 50 MB or smaller and five minutes or shorter. |
 
 ---
 
