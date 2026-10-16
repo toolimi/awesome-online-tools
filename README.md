@@ -189,6 +189,7 @@ Essential daily helpers that run entirely in your browser.
 | [UUID Generator](https://toolimi.com/tools/uuid-generator/) | Generate random UUID v4. UUID generator free online no account. |
 | [CSV to JSON](https://toolimi.com/tools/csv-to-json/) | Convert CSV data to JSON. CSV to JSON converter free tool. |
 | [Code Highlighter (JavaScript)](https://toolimi.com/tools/codehighlighter-language-javascript/) | Highlight JavaScript syntax. JS code highlighter online free. |
+| [BestJSON JSON Diff](https://bestjson.com/json-diff) | Compare JSON structures and inspect added, removed or changed values by path without signup. |
 
 ---
 
