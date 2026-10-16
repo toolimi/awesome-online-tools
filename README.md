@@ -267,6 +267,7 @@ Specialized tools for online sellers and shippers.
 | Tool Name | Short Description |
 |-----------|-------------------|
 | [BMI Calculator](https://toolimi.com/tools/bmi-calculator/) | Calculate Body Mass Index with metric/imperial units. Free BMI calculator online no signup. |
+| [Treadmill Pace Calculator](https://treadmillpace.com/chart/) | Free treadmill pace calculator. Convert belt speed to min/mile or min/km in the browser, no signup. |
 
 ---
 
