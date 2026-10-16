@@ -174,6 +174,7 @@ Handy utilities for writers, students, and coders.
 | [Trim Whitespace](https://toolimi.com/tools/trim-whitespace/) | Trim leading/trailing spaces. Trim whitespace online tool. |
 | [Remove All Spaces](https://toolimi.com/tools/remove-all-spaces/) | Eliminate all spaces from text. Remove spaces from text free. |
 | [Morse Code Encoder / Decoder](https://toolimi.com/tools/morse-code-encoder/) | Encode/decode Morse code. Morse code translator free online. |
+| [CuteFontGen](https://cutefontgen.com/instagram-bio-fonts/) | Free Instagram bio fonts. Copy and paste cute, bubble, and Unicode styles. No signup. |
 
 ---
 
