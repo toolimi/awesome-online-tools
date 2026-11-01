@@ -247,6 +247,7 @@ Simple video compression and conversion without watermarks.
 |-----------|-------------------|
 | [Video Compressor](https://toolimi.com/tools/video-compressor/) | Reduce MP4 video file size online. Free video compressor no watermark. |
 | [Video Converter](https://toolimi.com/tools/video-converter/) | Convert between MP4, AVI, MKV, etc. Online video converter free. |
+| [Video Size Reducer](https://video-size-reducer.com) | Compress MP4, MOV, WebM or MKV to an exact target size (e.g. 8MB, 25MB) for Discord, email or WhatsApp. Free tier, no watermark. |
 
 ---
 
