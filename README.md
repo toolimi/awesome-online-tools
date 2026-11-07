@@ -31,6 +31,7 @@ You’ll find **150+ tools** in this README, each with a description that natura
 - [E‑Commerce Tools](#ecommerce-tools)
 - [Health & Fitness Tools](#health--fitness-tools)
 - [Web & SEO Tools](#web--seo-tools)
+- [Document & Spreadsheet Tools](#document--spreadsheet-tools)
 - [All-in-One Tool Suites](#all-in-one-tool-suites)
 - [Why This List Is Different](#why-this-list-is-different)
 - [Contributing](#contributing)
@@ -277,6 +278,14 @@ Specialized tools for online sellers and shippers.
 | [User Agent Generator](https://toolimi.com/tools/user-agent-generator/) | Generate random user‑agent strings for testing. Free user agent generator online. |
 
 *(More SEO tools coming soon.)*
+
+---
+
+## 📊 Document & Spreadsheet Tools
+
+| Tool Name | Short Description |
+|-----------|-------------------|
+| [Numbers2Excel](https://numbers2excel.com/) | Convert Apple Numbers (.numbers) to Excel (.xlsx) in the browser; first sheet free with no signup. |
 
 ---
 
