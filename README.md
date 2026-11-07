@@ -143,6 +143,7 @@ All these tools run **client‑side**, meaning your photos never leave your devi
 | [Watermark Tool](https://toolimi.com/tools/watermark-tool/) | Generic watermarking utility. Free online watermark tool for images. |
 | [Remove Metadata from Image](https://toolimi.com/tools/remove-metadata-from-image/) | Strip EXIF, location, camera data. Remove metadata from image free online for privacy. |
 | [Metadata Remover](https://toolimi.com/tools/metadata-remover/) | Clean metadata from any file. Metadata remover online free tool. |
+| [ASCII Images](https://ascii-images.com/image-to-ascii) | Convert local images to ASCII artwork with TXT and PNG exports, free without an account; site Google Analytics is separate from local conversion. |
 
 ---
 
