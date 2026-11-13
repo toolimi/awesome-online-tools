@@ -137,6 +137,7 @@ All these tools run **client‑side**, meaning your photos never leave your devi
 | [Image Compressor](https://toolimi.com/tools/image-compressor/) | Compress JPEG, PNG while preserving quality. Compress JPG to 50KB online free. |
 | [Batch Image Compressor](https://toolimi.com/tools/batch-image-compressor/) | Compress multiple images at once. Batch compress images online free. |
 | [Free Image Format Converter](https://toolimi.com/tools/free-image-format-converter/) | Convert between JPG, PNG, WebP, AVIF, BMP. Image format converter online free. |
+| [AVIF Crate](https://avifcrate.com/) | Convert AVIF to JPG locally in the browser; preview the output, adjust JPEG quality, and export batches as a ZIP. |
 | [Any Image to WEBP Converter](https://toolimi.com/tools/any-image-to-webp-converter/) | Convert any image to next‑gen WebP format. Convert image to WebP online free. |
 | [WebP Converter](https://toolimi.com/tools/webp-converter/) | Dedicated WebP encoder. WebP image converter free online. |
 | [Add Watermark to Image](https://toolimi.com/tools/add-watermark-to-image/) | Brand your images with text/logo. Add watermark to photo online free no signup. |
