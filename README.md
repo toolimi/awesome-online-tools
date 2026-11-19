@@ -22,6 +22,7 @@ You’ll find **150+ tools** in this README, each with a description that natura
 ## 📑 Table of Contents
 
 - [PDF Tools](#pdf-tools)
+- [Office & Presentations](#office--presentations)
 - [Image Tools](#image-tools)
 - [Text & Writing Tools](#text--writing-tools)
 - [Developer Tools](#developer-tools)
@@ -121,6 +122,16 @@ The most comprehensive collection on this list — **45+ free online PDF tools**
 | Tool Name | Short Description |
 |-----------|-------------------|
 | [Online PDF Viewer](https://toolimi.com/tools/online-pdf-viewer/) | View PDFs directly in your browser, no plugin needed. Free online PDF viewer no download. |
+
+---
+
+## 📽️ Office & Presentations
+
+Browser-based tools for slide decks and other Office files. We favour client-side tools that never upload your documents.
+
+| Tool Name | Short Description |
+|-----------|-------------------|
+| [PPT Merger](https://pptmerger.org) | Combine multiple PowerPoint (.pptx) decks into one in your browser. Free online PPTX merger, no upload, no signup, no watermark. |
 
 ---
 
